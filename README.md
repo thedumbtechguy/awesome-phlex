@@ -57,5 +57,6 @@ A curated list of [![Awesome](https://awesome.re/badge-flat2.svg)](https://aweso
 * [Component driven development on Rails with Phlex](https://fly.io/ruby-dispatch/component-driven-development-on-rails-with-phlex/) - An excellent introduction to building Rails applications using components.
 * [Hacking Rails Implicit Rendering for View Components & Fun](https://fly.io/ruby-dispatch/hacking-rails-implicit-rendering-for-view-components/) - Advanced tips and tricks for building Rails applications using components.
 * [A tale of two Phlexes](https://blog.willcosgrove.com/a-tale-of-two-phlexes) - Contains excellent information on how to use deferred rendering and how to build a table component.
+* [Flecks](https://github.com/phlex-ruby/flecks) - Render IO-bound content asynchronously and stream it into a wrap-around shell in a single HTTP response with Phlex.
 
 
