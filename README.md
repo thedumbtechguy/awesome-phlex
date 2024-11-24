@@ -27,6 +27,7 @@ A curated list of [![Awesome](https://awesome.re/badge-flat2.svg)](https://aweso
 * [Phlex Tabler Icons](https://github.com/elvinaspredkelis/phlex-tabler_icons) - A port of [Tabler Icons](https://tabler.io/icons) to Phlex.
 * [PhlexUI](https://phlexui.com/) - A UI component library, crafted precisely for Ruby devs who want to stay organised and build modern apps, fast.
 * [ZestUI](https://zestui.com/) - Accelerate your workflow with beautiful UI components tailored for Rails.
+* [PhlexyUI](https://github.com/phlexyUI/phlexy_ui) - Phlex components for DaisyUI.
 
 ## Utilities & Tools
 
