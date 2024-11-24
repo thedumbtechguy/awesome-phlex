@@ -46,11 +46,13 @@ A curated list of [![Awesome](https://awesome.re/badge-flat2.svg)](https://aweso
 	-   [phlex-icons-remix](https://rubygems.org/gems/phlex-icons-remix) (2,800+)
 	-   [phlex-icons-radix](https://rubygems.org/gems/phlex-icons-radix) (300+)
 	-   [phlex-icons-tabler](https://rubygems.org/gems/phlex-icons-tabler) (4,800+)
+ 	-   [phlex-icons-iconoir](https://rubygems.org/gems/phlex-icons-iconoir)   	
 
 ## Utilities & Tools
 
 * [Phlexing](https://github.com/marcoroth/phlexing) - A simple ERB to Phlex Converter.
 * [Phlexible](https://github.com/joelmoss/phlexible) - A bunch of helpers and goodies intended to make life with phlex even easier!
+* [PhlexCustomElementGenerator](https://github.com/konnorrogers/phlex_custom_element_generator) - A generator for producing custom elements from a custom elements manifest.
 
 ## Resources
 
